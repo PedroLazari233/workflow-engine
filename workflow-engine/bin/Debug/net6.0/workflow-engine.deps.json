@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "workflow-engine/1.0.0": {
+        "runtime": {
+          "workflow-engine.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "workflow-engine/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
